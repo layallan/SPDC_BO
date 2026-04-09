@@ -28,22 +28,28 @@ The code is modularized into three core components:
 
 The framework is lightweight and requires minimal dependencies. We recommend using Python 3.8 or higher.
 
-```bash
+
 # Clone the repository
+```bash
 git clone [https://github.com/layallan/SPDC_BO.git](https://github.com/layallan/SPDC_BO.git)
 cd SPDC_BO
-
+```
 # 2. Create and activate a virtual environment
-# Option A: Using Conda (Recommended)
+## Option A: Using Conda (Recommended)
+```bash
 conda create -n spdc-bo python=3.12 -y
 conda activate spdc-bo
+```
 
-# Option B: Using standard Python venv
+## Option B: Using standard Python venv
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+```
 
 # 3. Install required dependencies
+```bash
 pip install -r requirements.txt
-
-# Citation
+```
+# 4. Citation
 
