@@ -6,7 +6,7 @@ It demonstrates an autonomous, machine-learning-assisted control loop designed t
 
 ---
 
-To ensure this framework is highly accessible and can be evaluated without requiring a high-end GPU or complex PyTorch environment configurations, this repository is provided as a minimal Working Example.
+To ensure this framework is highly accessible and can be evaluated without requiring a high-end GPU or complex PyTorch environment configurations, this repository is provided as a minimal working example.
 
 The computationally heavy tensor operations (e.g., phase-matching integration, batched SVD, and explicit refractive index modeling of the BBO crystal) have been abstracted into a **mathematical surrogate model**. 
 * The surrogate function mimics the exact topological landscape, local minima, and shifting optimum behavior of the real SPDC environment under defocus-type phase aberrations.
