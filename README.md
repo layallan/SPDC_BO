@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1206445950.svg)](https://doi.org/10.5281/zenodo.19490148)
 # Adaptive pump shaping via machine learning for high-dimensional OAM entanglement in spontaneous parametric down-conversion
 
 This repository provides the open-source implementation of the Bayesian Optimization (BO) framework presented in our work: **"Adaptive pump shaping via machine learning for high-dimensional OAM entanglement in spontaneous parametric down-conversion."**
